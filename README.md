@@ -1,6 +1,12 @@
 <div align="center">
 
-<img src="assets/readme-banner.png" alt="T58 Quant Algo Backtester" width="100%" />
+<img src="assets/logo/t58-logo-horizontal-dark.png" alt="T58 Quant Algo Backtester" width="480" />
+
+<sub>STRATEGY RESEARCH &nbsp;/&nbsp; VALIDATION &nbsp;/&nbsp; ROBUSTNESS &nbsp;/&nbsp; PROP SIMULATION</sub>
+
+<br />
+
+<img src="assets/readme-banner.png" alt="T58 Quant Algo Backtester — dashboard preview" width="100%" />
 
 # T58 Quant Algo Backtester
 
@@ -88,6 +94,12 @@ capital or a real evaluation fee on it.
 
 Full breakdown of every tool: **[FEATURES.md](FEATURES.md)**
 
+<div align="center">
+
+<img src="assets/brand/feature-icons.png" alt="Strategy Research / Validation / Robustness / Prop Simulation" width="640" />
+
+</div>
+
 ## Built the hard way, not the fast way
 
 This isn't a weekend project wrapped in a landing page. It's a platform
@@ -108,6 +120,15 @@ See exactly what that testing looked like: **[PROOF_OF_PERFORMANCE.md](PROOF_OF_
 
 One engine powers all three, so there's no feature drift between them —
 what you validate on desktop is exactly what you'll see on mobile.
+
+Desktop and web share one visual identity, and Strategy Library statuses
+read the same way at a glance in both:
+
+<div align="center">
+
+<img src="assets/brand/status-badges.png" alt="Strategy status badges: ready, developing, wait, extended, pass" width="420" />
+
+</div>
 
 ## Pricing & access
 
@@ -148,6 +169,14 @@ evaluation success.
 
 <div align="center">
 
+<img src="assets/brand/motivational.png" alt="T58 — Discipline builds freedom" width="200" />
+
+<br />
+
 **[Start your free trial →](https://whop.com/t58-trading/t58-backtesting-engine/)**
+
+<br />
+
+<img src="assets/brand/social-icons.png" alt="GitHub, Discord, YouTube, X" width="320" />
 
 </div>
